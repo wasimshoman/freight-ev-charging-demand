@@ -1,6 +1,6 @@
 # Trip-Based EV Charging Demand Model for Long-Haul Freight
 
-A Python pipeline that estimates the spatial demand for electric vehicle (EV) charging infrastructure along European long-haul freight corridors. The model traces individual truck trips across the road network, applies mandatory EU rest and break regulations to identify where stops occur, and computes the charging demand at each stop location weighted by freight flow volumes.
+A Python pipeline that estimates the spatial demand for heavy-duty electric vehicle charging infrastructure along European long-haul freight corridors. The model traces individual truck trips across the road network, applies mandatory EU rest and break regulations to identify where stops occur, and computes the charging demand at each stop location weighted by freight flow volumes.
 
 ## Methodology
 
